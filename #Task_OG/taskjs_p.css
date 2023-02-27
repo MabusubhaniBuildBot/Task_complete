@@ -1,0 +1,26 @@
+body {
+
+    color: #000000;
+    font-size: 15px;
+}
+
+html,
+body {
+    margin: 0;
+    padding: 0;
+    font: 15px;
+}
+
+table {
+    width: 90%;
+    border: 1px solid black;
+    margin: 10px;
+    padding: 10px;
+}
+
+#displayImage {
+    width: 200px;
+    height: 200px;
+    border: 1px solid black;
+}
+
